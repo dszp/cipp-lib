@@ -1,6 +1,6 @@
 {
   "name": "@dszp/cipp-lib",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Portable, Node-free, read-only client for the CIPP API (CyberDrain Improved Partner Portal): Entra client-credentials token caching, 429/5xx backoff, tenants, and per-tenant Microsoft 365 licensing with renewal terms. Runs unchanged in a Cloudflare Worker, Node, or the browser.",
   "type": "module",
   "license": "MIT",
